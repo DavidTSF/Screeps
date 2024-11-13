@@ -1,6 +1,5 @@
 
 
-let  basesList = Memory.god.bases;
 const GodManager = {
 
     evalue: function () {
