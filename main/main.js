@@ -6,7 +6,7 @@ var GodManager = require('god.manager')
 
 module.exports.loop = function () {
 
-    GodManager.evalue()
+    //GodManager.evalue()
 
     creepManager.run();
     for(let name in Game.creeps) {
